@@ -28,7 +28,7 @@ module.exports = {
         },
         {
           href: 'https://mizarbot.xyz',
-          label: 'Webpanel',
+          label: 'Main Website',
           position: 'left'
         },
         {
