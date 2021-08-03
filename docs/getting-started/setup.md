@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Setup
 To get the best Mizar experience you'll need to configure it to your custom needs.
 

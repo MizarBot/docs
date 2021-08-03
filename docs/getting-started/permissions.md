@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Permissions
 This table gives a list of permissions Mizar requires - and what they're used for
 

@@ -1,3 +1,7 @@
+---
+sidebar_position: 5
+---
+
 # Privacy Policy
 ## What Information is Stored?
 For any user who logs into the website, Mizar stores:
