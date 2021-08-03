@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # Custom Commands
 Custom commands can be used to truly customize Mizar. Add your own responses to messages that match a phrase or regex filter and create short commands which can be used to prefill normal command arguments
 

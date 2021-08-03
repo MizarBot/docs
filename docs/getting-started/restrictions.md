@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Restrictions
 Restrictions can be added to commands, modules or the entire guild. They allow for the most flexibility in defining which commands users can execute and where they can execute them
 

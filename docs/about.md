@@ -1,4 +1,8 @@
-# Mizar
+---
+sidebar_position: 2
+---
+
+# About Mizar
 > I'm a free, multipurpose Discord bot that provides everything needed to run your server. Configure and customise my 100+ commands with my online dashboard to make me the perfect match to your community.
 
 ## Features
