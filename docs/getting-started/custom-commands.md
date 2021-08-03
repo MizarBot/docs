@@ -17,4 +17,4 @@ Actions are the events that will be executed when the command is triggered:
 * **Message** - A custom message that will be sent
 
 ## Restrictions
-Restrictions can be used to limit the custom command to a certain channel/user. They work in exactly the same way as other Mizar restrictions do, except no errors will be shown if the trigger is a phrase or regex. Please see the [restrictions page](/restrictions) for more information.
+Restrictions can be used to limit the custom command to a certain channel/user. They work in exactly the same way as other Mizar restrictions do, except no errors will be shown if the trigger is a phrase or regex. Please see the [restrictions page](./restrictions) for more information.
