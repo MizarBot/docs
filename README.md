@@ -20,11 +20,11 @@ yarn install
 ```
 
 ## Development Live Server
-```
+```console
 yarn start
 ```
 
 ## Compiling for Production
-```
+```console
 yarn build
 ```
