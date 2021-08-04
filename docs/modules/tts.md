@@ -1,6 +1,12 @@
+---
+sidebar_position: 1
+---
+
 # Text to Speech
 
-> Text to Speech (TTS) is part of my **Voice Module** which allows users to join a conversation in a voice channel even if they are unable to speak.
+:::info
+Text to Speech (TTS) is part of my **Voice Module** which allows users to join a conversation in a voice channel even if they are unable to speak.
+:::
 
 ## TTS Modes
 TTS can be run in two modes:
