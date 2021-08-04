@@ -52,7 +52,9 @@ module.exports = {
       theme: lightCodeTheme,
       darkTheme: darkCodeTheme,
     },
-    defaultMode: 'dark'
+    colorMode: {
+      defaultMode: 'dark'
+    }
   },
   presets: [
     [
