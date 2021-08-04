@@ -54,6 +54,9 @@ module.exports = {
     },
     colorMode: {
       defaultMode: 'dark'
+    },
+    gtag: {
+      trackingID: 'G-23CK06NMJD'
     }
   },
   presets: [
