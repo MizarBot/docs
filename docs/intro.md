@@ -13,6 +13,6 @@ By default, Mizar requests Administrator permissions as it's the simplest way to
 ## Support
 If you would like further support, have a bug or want so suggest a new feature, please go to the following places:
 
-* Support Forum: https://support.mizarbot.xyz
 * Discord: https://mizarbot.xyz/discord
+* Roadmap (feature suggestions): https://roadmap.mizarbot.xyz
 * Twitter: https://twitter.com/MizarDiscordBot

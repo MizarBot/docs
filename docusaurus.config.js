@@ -32,8 +32,8 @@ module.exports = {
           position: 'left'
         },
         {
-          href: 'https://support.mizarbot.xyz',
-          label: 'Forum',
+          href: 'https://roadmap.mizarbot.xyz',
+          label: 'Roadmap',
           position: 'left'
         },
         {
