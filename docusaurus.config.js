@@ -12,6 +12,7 @@ module.exports = {
   favicon: 'images/logo.png',
   organizationName: 'Mizar',
   projectName: 'Mizar',
+  trailingSlash: false,
   themeConfig: {
     navbar: {
       title: 'Mizar',
