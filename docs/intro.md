@@ -13,6 +13,15 @@ By default, Mizar requests Administrator permissions as it's the simplest way to
 ## Support
 If you would like further support, have a bug or want so suggest a new feature, please go to the following places:
 
-* Support Forum: https://support.mizarbot.xyz
 * Discord: https://mizarbot.xyz/discord
+* Roadmap (feature suggestions): https://roadmap.mizarbot.xyz
 * Twitter: https://twitter.com/MizarDiscordBot
+
+## Supporting Mizar
+There are three main ways that you can help Mizar:
+
+1. [Voting](https://mizarbot.xyz/vote) - Voting on public bot listing websites can help me to grow
+2. [Donating](https://mizarbot.xyz/donate) - Mizar costs money to develop and run, and therefore to keep it free we rely on the generosity of people like you
+3. Spreading The Word - Similar to voting, telling others about Mizar can help me grow
+
+Thank you!

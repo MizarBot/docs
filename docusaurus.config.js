@@ -12,6 +12,7 @@ module.exports = {
   favicon: 'images/logo.png',
   organizationName: 'Mizar',
   projectName: 'Mizar',
+  trailingSlash: false,
   themeConfig: {
     navbar: {
       title: 'Mizar',
@@ -32,8 +33,8 @@ module.exports = {
           position: 'left'
         },
         {
-          href: 'https://support.mizarbot.xyz',
-          label: 'Forum',
+          href: 'https://roadmap.mizarbot.xyz',
+          label: 'Roadmap',
           position: 'left'
         },
         {
@@ -54,6 +55,15 @@ module.exports = {
     },
     colorMode: {
       defaultMode: 'dark'
+    },
+    gtag: {
+      trackingID: 'G-23CK06NMJD'
+    },
+    algolia: {
+      apiKey: 'e37eec4ed876233a8c571d19bc0113b4',
+      indexName: 'mizar_docs',
+
+      appId: '1VE41LWYUD'
     }
   },
   presets: [
