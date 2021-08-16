@@ -58,6 +58,12 @@ module.exports = {
     },
     gtag: {
       trackingID: 'G-23CK06NMJD'
+    },
+    algolia: {
+      apiKey: 'e37eec4ed876233a8c571d19bc0113b4',
+      indexName: 'mizar_docs',
+
+      appId: '1VE41LWYUD'
     }
   },
   presets: [
