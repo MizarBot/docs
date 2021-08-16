@@ -9,7 +9,7 @@ Restrictions can be added to commands, modules or the entire guild. They allow f
 ![An image of two restrictions](/images/restrictions.jpg)
 
 * A restriction field will consist of several `restriction` cards and an `Add Restriction` field. 
-* All the restrictions here will be checked to see if the user can run a command - in this example, the user would need both the ban and kick permission (provided by the `can.ban` and `can.kick` restrictions respectively)
+* All the restrictions here will be checked to see if the user can run a command - in this example, the user would need both the ban and kick permission (provided by the `can.managechannels` and `can.kick` restrictions respectively)
 
 ## Adding a Restriction
 ![An image of adding a restriction](/images/add-restriction.jpg)
