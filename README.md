@@ -1,9 +1,20 @@
-# Mizar - Docs
-> Public documentation detailing the use of Mizar.
 
-Welcome to the Mizar Docs! This provides a centralised location where you can find information about [Mizar's](https://mizarbot.xyz) features and how to set it up.
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/812304694960848897/900866007772577852/logo.png" />
+</p>
+
+<h1 align="center">Mizar - Docs</h1>
+<h3>Public documentation detailing the use of Mizar.</h2>
+
+Welcome to the Mizar Docs! This provides a centralised location where you can find information about [Mizar](https://mizarbot.xyz)'s features and how to set it up.
 
 The deployed version of this is available at https://docs.mizarbot.xyz
+
+## What is Mizar?
+
+Mizar is a free, multipurpose Discord bot that provides everything needed to run your server. 
+
+You can configure and customise over 100 commands with the online dashboard available [here](https://mizarbot.xyz).
 
 ## Open Source
 While the main Mizar project is closed source, the documentation is open source and anybody is welcome to contribute.
