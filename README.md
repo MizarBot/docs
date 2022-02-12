@@ -36,6 +36,7 @@ yarn start
 ```
 
 ## Compiling for Production
+> Note: If using Cloudflare pages, add the environment variable `NODE_VERSION=16.6.1`
 ```console
 yarn build
 ```
