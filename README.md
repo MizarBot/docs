@@ -21,7 +21,6 @@ While the main Mizar project is closed source, the documentation is open source 
 
 ## Support
 If you would like to contact the developers for any reason, please go to the following places:
-* Support Forum: https://support.mizarbot.xyz
 * Discord: https://mizarbot.xyz/discord
 * Twitter: https://twitter.com/MizarDiscordBot
 
