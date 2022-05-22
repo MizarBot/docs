@@ -3,19 +3,45 @@ sidebar_position: 3
 ---
 
 # Restrictions
-Restrictions can be added to commands, modules or the entire guild. They allow for the most flexibility in defining which commands users can execute and where they can execute them
-
-## Restriction Fields
 ![An image of two restrictions](/images/restrictions.jpg)
 
-* A restriction field will consist of several `restriction` cards and an `Add Restriction` field. 
-* All the restrictions here will be checked to see if the user can run a command - in this example, the user would need both the ban and kick permission (provided by the `can.managechannels` and `can.kick` restrictions respectively)
+Restrictions can be added to commands, modules or the entire guild using the online dashboard. They allow for the most flexibility in defining which commands users can execute and where they can execute them.
+
+:::note
+Mizar's restrictions system is completely separate to Discord's new [slash command permission system](https://discord.com/blog/slash-commands-permissions-discord-apps-bots). Mizar's restrictions are more powerful and apply to both [slash commands and text commands](./commands).
+
+If you are having issues using this system, feel free to reach out on the [Support Discord](https://mizarbot.xyz/discord)
+:::
+
+Restrictions are divided into multiple **Restriction Cards** - such as `cankick` and `staff`. These restriction cards can be created, accessed and edited across the whole guild admin dashboard - so, for example, the `staff` restriction card could be applied to several commands.
+
+* For a user to run a command, they must meet **at least one** Restriction Card.
+
+Within each restriction card, there are multiple **Restriction Paths** separated by the `Or` divider.
+
+* For a user to pass a Restriction Card, they must meet **at least one** Restriction Path.
+
+Within each restriction path, multiple individual **Restriction Conditions** can be set.
+
+* For a user to pass a Restriction Path, they must meet **all** Restriction Conditions.
+
+:::info
+**Example using the above configuration**
+
+From the above image, the user must meet the following conditions:
+
+* Meet the `cankick` Restriction Card, i.e.
+  * Have the `Kick Members` Discord permission
+* **OR** meet the `staff` Restriction Card, i.e.
+  * Have both the `Admin` Discord role **AND** be in the `#private` channel
+  * **OR** be the user named `JTwhizzkid`
+:::
+
 
 ## Adding a Restriction
 ![An image of adding a restriction](/images/add-restriction.jpg)
 
-* To add a new restriction to the list, you can either select an existing one by using the dropdown box or creating a new one by entering a new name.
-* By default, there should be at least one restriction by default - `bot.admin` is used by default to restrict who can access the admin panel, and can be selected here.
+To add a new restriction to the restrictions list, you can either select an existing one by using the dropdown box or creating a new one by entering a new name.
 
 ## Configuring a Restriction
 ![A labelled image of an individual restriction](/images/restriction.jpg)
