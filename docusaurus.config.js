@@ -64,7 +64,7 @@ module.exports = {
       indexName: 'mizar_docs',
 
       appId: '1VE41LWYUD'
-    }
+    },
   },
   presets: [
     [
@@ -80,4 +80,11 @@ module.exports = {
       },
     ],
   ],
+  scripts: [
+    {
+      src: 'https://umami.joshheng.co.uk/umami.js',
+      'data-website-id': '13867273-6d92-4856-8c27-1aab1d45a084',
+      async: true,
+    }
+  ]
 };
